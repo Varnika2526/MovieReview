@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieReview</string>
+    <string name="Movie_name_1">Star Wars</string>
+    <string name="Movie_name_2">Endgame</string>
+    <string name="Movie_name_3">Spiderman No way Home</string>
+    <string name="Movie_name_4">Avatar</string>
+    <string name="Movie_name_5">Black panther</string>
+    <string name="Movie_name_6">Infinity War</string>
+    <string name="Movie_name_7">Top Gun</string>
+    <string name="Movie_name_8">Titanic</string>
+    <string name="Movie_name_9">Jurassic World</string>
+    <string name = "Movie_description_1">A new order threatens to destroy the New Republic. Finn, Rey and Poe, backed by the Resistance and the Republic, must find a way to stop them and find Luke, the last surviving Jedi</string>
+    <string name="Movie_description_2">After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.</string>
+    <string name="Movie_description_3">Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange spell goes horribly wrong, leading to unwanted guests entering their universe.</string>
+    <string name="Movie_description_4">Jake, who is paraplegic, replaces his twin on the Navi inhabited Pandora for a corporate mission. After the natives accept him as one of their own, he must decide where his loyalties lie.</string>
+    <string name="Movie_description_5">After his fathers death, TChalla returns home to Wakanda to inherit his throne. However, a powerful enemy related to his family threatens to attack his nation.</string>
+    <string name="Movie_description_6">The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.</string>
+    <string name="Movie_description_7">After more than 30 years of service as one of the Navys top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.</string>
+    <string name="Movie_description_8">Seventeen-year-old Rose hails from an aristocratic family and is set to be married. When she boards the Titanic, she meets Jack Dawson, an artist, and falls in love with him.</string>
+    <string name="Movie_description_9">A theme park showcasing genetically-engineered dinosaurs turns into a nightmare for its tourists when one of the dinosaurs escapes its enclosure. An ex-military animal expert steps up to save the day.</string>
+    <string name="about">About:</string>
+    <string name="release_year">%d release year</string>
+    <string name="expand_button_content_description">See more or less information about a movie.</string>
+</resources>
